@@ -26,6 +26,9 @@ import javax.swing.text.Highlighter;
 import javax.swing.text.Highlighter.HighlightPainter;
 import javax.swing.text.JTextComponent;
 
+/**
+ * A text editor class and containts its class attributes
+ */
 public class TextEditor extends JPanel {
 	private JTextArea textArea;
 	private JButton openButton;
