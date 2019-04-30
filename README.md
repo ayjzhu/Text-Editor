@@ -5,7 +5,7 @@ A simple plain text editor that has similar functions of the Windows notepad. Us
 - Open file from a given directory
 - Save file to a specific directory
 - Able to resize the font of the text
-- Able to change the style font to be "plain", "Bold", and "Italics"
+- Able to change the style font to be "Plain", "Bold", and "Italics"
 - Find certain keyword and highlight it
 - Replace the highlighted keywords to a given text
 
