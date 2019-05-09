@@ -1,6 +1,10 @@
 # Text-Editor
 A simple plain text editor that has similar functions of the Windows notepad. User is able to open and save files from a directory. Meanwhile they can resize and change the style of the fonts. In addition, the program provides searching for keywords and its able to replace them to a given text.
 
+## Table of Contents
+- [Key Features](#Key-Features)
+
+<a name="Key-Features"></a>
 ## Key Features
 - Open file from a given directory.
 - Save file to a specific directory.
