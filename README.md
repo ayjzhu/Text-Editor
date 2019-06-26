@@ -23,7 +23,7 @@ ___
 ## Known Bugs
 1. Ask to confirm on exit even no edits were made.
 2. The "find" feature not functioning in some occasions .
-(Ex. When searching a keyword, it's able to be searched in the first iteration. Then the following searches will display as  "_keyword_ not found").
+(Ex. When searching a keyword, it's able to search in the first iteration. However, the following searches will display as  "_keyword_ not found").
 <br />......
 <br>
 
